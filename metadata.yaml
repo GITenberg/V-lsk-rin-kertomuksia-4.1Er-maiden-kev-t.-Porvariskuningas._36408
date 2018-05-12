@@ -32,6 +32,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36408#V-lsk-rin-kertomuksia-4.1Er-maiden-kev-t.-Porvariskuningas.
 gutenberg_issued: '2011-06-13'
 gutenberg_type: Text
 identifiers:
